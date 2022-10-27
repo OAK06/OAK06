@@ -160,16 +160,16 @@
 </table>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oak06&show_icons=true&locale=en&layout=compact" alt="oak06" />
-</p>
-
-<!-- <p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oak06&show_icons=true&locale=en" alt="oak06" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oak06&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="oak06" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oak06&" alt="oak06" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oak06&show_icons=true&locale=en&theme=onedark&count_private=true" alt="oak06" />
+</p>
+
+<!-- <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oak06&theme=onedark" alt="oak06" />
 </p> -->
 
 <!--
