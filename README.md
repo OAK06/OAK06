@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oak06&theme=onedark&title=Commits" alt="oak06" />
+    <img src="https://github-profile-trophy.vercel.app/?username=oak06&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="oak06" />
   </a> 
 </p>
 
