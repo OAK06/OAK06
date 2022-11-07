@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omardemiro@gmail.com**
 
-- 📄 Know about my experiences through my [LinkedIn](https://linkedin.com/in/OAK06)
+- 📄 Know about my experiences through my [Online CV](https://oak06.github.io/) or [LinkedIn](https://linkedin.com/in/OAK06)
 
 - ⚡ Fun fact **I Optimize my Code :)**
 
