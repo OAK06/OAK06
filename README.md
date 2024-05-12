@@ -11,9 +11,9 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Node.js / React.js**
+- 🌱 I’m a stack agnostic developer, always looking to add more languages and frameworks to my skill set.
 
-- 👯 I’m looking to collaborate on **Crypto related projects**
+- 👯 I do freelance work along with a small team of friends, we tackle company scale projects.
 
 - 📫 How to reach me **omardemiro@gmail.com**
 
