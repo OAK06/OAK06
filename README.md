@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">I'm a Fullstack Developer</h3>
+<h3 align="center">I'm a Fullstack Engineer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=oak06&label=Profile%20views&color=0e75b6&style=flat" alt="oak06" /> 
+<p align="left">
+  I'm a versatile Full-Stack Engineer specializing in SaaS systems development, with experience across LAMP, PERN, and other modern stacks. Skilled in PHP, Python, Node.js, Next.js, React, Vue,   Angular, and more, I’ve worked with clients across multiple industries and international markets, adapting to diverse business needs and technical challenges.
 </p>
+
+<p align="left">
+  As a freelancer I provide end-to-end software solutions tailored to industries like fitness, crypto, education, and e-commerce. With experience working with international clients from Canada,   Bulgaria, Egypt, Saudi Arabia, and the UAE, I specialize in building scalable and efficient web-based systems. My work spans full-cycle software development, technical consultation, and project management, ensuring seamless execution and high-performance results.
+</p>
+
+- 📫 Reach me at **omardemiro@gmail.com**
+
+- 📄 Learn more about my experience on [Online CV](https://oak06.github.io/) or [LinkedIn](https://linkedin.com/in/OAK06)
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=oak06&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="oak06" />
   </a> 
 </p>
-
-- 🌱 I’m a stack agnostic developer, always looking to add more languages and frameworks to my skill set.
-
-- 👯 I do freelance work along with a small team of friends, we tackle company scale projects.
-
-- 📫 How to reach me **omardemiro@gmail.com**
-
-- 📄 Know about my experiences through my [Online CV](https://oak06.github.io/) or [LinkedIn](https://linkedin.com/in/OAK06)
-
-- ⚡ Fun fact **I Optimize my Code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +28,65 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
+  <tr>
+    <td>
+      <h4 align="left">Backend:</h4>
+      <ul align="left">
+        <li>PHP (Laravel, CakePHP)</li>
+        <li>Python (Flask)</li>
+        <li>Node.js (Express)</li>
+      </ul>
+    </td>
+    <td colspan="2">
+      <h4 align="left">Database:</h4>
+      <ul align="left">
+        <li>PostgreSQL</li>
+        <li>MySQL</li>
+        <li>MSSQL</li>
+        <li>MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4 align="left">Frontend:</h4>
+      <ul align="left">
+        <li>React.js (Next.js)</li>
+        <li>Vue.js</li>
+        <li>TypeScript</li>
+        <li>Tailwind CSS</li>
+      </ul>
+    </td>
+    <td>
+      <h4 align="left">Mobile:</h4>
+      <ul align="left">
+        <li>Dart</li>
+        <li>Flutter</li>
+        <li>React Native</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4 align="left">DevOps:</h4>
+      <ul align="left">
+        <li>Docker</li>
+        <li>Kubernetes</li>
+      </ul>
+    </td>
+    <td colspan="2">
+      <h4 align="left">Other Tools:</h4>
+      <ul align="left">
+        <li>Postman</li>
+        <li>Git</li>
+        <li>Linux</li>
+        <li>Photoshop</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- <table>
   <tr></tr>
   <tr>
     <td>
@@ -87,32 +144,20 @@
     <td colspan="2">
       <h4 align="left">Frontend:</h4>
       <p align="left">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> 
+        </a> 
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> 
+        </a> 
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
         </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-        </a> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
-        <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-          <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-        </a>
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         </a>
       </p>
     </td>
@@ -162,28 +207,8 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oak06&show_icons=true&locale=en&layout=compact&theme=onedark&count_private=true" alt="oak06" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=oak06&label=Profile%20views&color=0e75b6&style=flat" alt="oak06" /> 
 </p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oak06&show_icons=true&locale=en&theme=onedark&count_private=true" alt="oak06" />
-</p>
-
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oak06&theme=onedark" alt="oak06" />
-</p> -->
-
-<!--
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-OAK06/OAK06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
