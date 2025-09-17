@@ -78,9 +78,9 @@ Educational management system improving digital learning infrastructure
 <p>
   <img height="120em" src="https://github-profile-trophy.vercel.app/?username=oak06&theme=onedark&margin-w=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="oak06" />
 </p>
-<p>
+<!-- <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oak06&layout=compact&langs_count=8&theme=dark"/>
-</p>
+</p> -->
 
 ---
 
